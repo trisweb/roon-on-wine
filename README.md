@@ -1,3 +1,8 @@
+# Fork Description
+
+This fork was made via the guide from @benjaminbellamy on https://github.com/RoPieee/roon-on-wine/issues/26
+It's all up to date for installing Roon 2.0 under **Wine 7+**. You need to install Wine 7 first for it to work.
+
 # Running Roon on Linux with Wine
 
 This script makes it possible to run Roon on Wine. It creates a separate Wine instance in a folder; this is required for Roon.
